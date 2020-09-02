@@ -1,5 +1,5 @@
 ---
-title: "Welcome to SFBAYAREATECH"
+title: "SFBAYAREATECH"
 draft: false
 headless: true
 weight: 0

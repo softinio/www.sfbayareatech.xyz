@@ -1,6 +1,6 @@
 baseURL = "https://www.sfbayareatech.xyz/"
 languageCode = "en-us"
-title = "SF Bay Area Tech"
+title = "SFBayAreaTech"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
@@ -98,7 +98,7 @@ googleAnalytics                 = "UA-123629928-1"                     # https:/
     [languages.en]
         languageName     = "English"
         languageCode     = "en-us"
-        contentDir       = "content/en"
+        contentDir       = "content"
         weight           = 0
         title            = "SFBayareaTech"
         [languages.en.params]
