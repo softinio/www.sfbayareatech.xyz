@@ -103,7 +103,7 @@ googleAnalytics                 = "UA-123629928-1"                     # https:/
         title            = "SFBayareaTech"
         [languages.en.params]
             description  = "SFBayareaTech - The San Francisco Bay Area Tech Community"   # Max 160 characters show in search results
-            footerText   = "SFBayareaTech - The San Francisco Bay Area Tech Community"                      # Text to override default footer text (markdown allowed)
+            footerText   = "©2020 SFBayareaTech - The San Francisco Bay Area Tech Community"                      # Text to override default footer text (markdown allowed)
 
 [deployment]
 order = [".png$", ".jpg$", ".gif$", ".svg$"]
