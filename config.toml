@@ -100,10 +100,10 @@ googleAnalytics                 = ""                     # https://gohugo.io/tem
         languageCode     = "en-us"
         contentDir       = "content"
         weight           = 0
-        title            = "SFBayareaTechies.com"
+        title            = "SFBayAreaTechies.com"
         [languages.en.params]
-            description  = "SFBayareaTechies.com - The San Francisco Bay Area Tech Community"   # Max 160 characters show in search results
-            footerText   = "©2020 SFBayareaTechies.com - The San Francisco Bay Area Tech Community"                      # Text to override default footer text (markdown allowed)
+            description  = "SFBayAreaTechies.com - The San Francisco Bay Area Tech Community"   # Max 160 characters show in search results
+            footerText   = "©2020 SFBayAreaTechies.com - The San Francisco Bay Area Tech Community"                      # Text to override default footer text (markdown allowed)
 
 [deployment]
 order = [".png$", ".jpg$", ".gif$", ".svg$"]
