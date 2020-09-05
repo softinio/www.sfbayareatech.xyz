@@ -1,10 +1,10 @@
-baseURL = "https://www.sfbayareatech.xyz/"
+baseURL = "https://www.sfbayareatechies.com/"
 languageCode = "en-us"
-title = "SFBayAreaTech"
+title = "SFBayAreaTechies.com"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
-googleAnalytics                 = "UA-123629928-1"                     # https://gohugo.io/templates/internal/#google-analytics
+googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
@@ -100,18 +100,18 @@ googleAnalytics                 = "UA-123629928-1"                     # https:/
         languageCode     = "en-us"
         contentDir       = "content"
         weight           = 0
-        title            = "SFBayareaTech"
+        title            = "SFBayareaTechies.com"
         [languages.en.params]
-            description  = "SFBayareaTech - The San Francisco Bay Area Tech Community"   # Max 160 characters show in search results
-            footerText   = "©2020 SFBayareaTech - The San Francisco Bay Area Tech Community"                      # Text to override default footer text (markdown allowed)
+            description  = "SFBayareaTechies.com - The San Francisco Bay Area Tech Community"   # Max 160 characters show in search results
+            footerText   = "©2020 SFBayareaTechies.com - The San Francisco Bay Area Tech Community"                      # Text to override default footer text (markdown allowed)
 
 [deployment]
 order = [".png$", ".jpg$", ".gif$", ".svg$"]
 
 [[deployment.targets]]
 name = "softinio-deploy"
-URL = "s3://www.sfbayareatech.xyz?region=us-west-1"
-cloudFrontDistributionID = "E1RSM3ZAY3D14H"
+URL = "s3://www.sfbayareatechies.com?region=us-west-1"
+cloudFrontDistributionID = "E2RJN7TGGVMFNT"
 
 [[deployment.matchers]]
 #  Cache static assets for 1 year.
