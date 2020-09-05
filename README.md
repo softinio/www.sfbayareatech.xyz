@@ -1,6 +1,5 @@
-# SF Bay Area Tech #
+# https://www.sfbayareatechies.com/ #
 
-![]((static/sfbayareatech_logo.png))
 
 # Powered by the fabulous
 
