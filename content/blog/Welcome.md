@@ -41,4 +41,4 @@ If you have any feedback or you simply want to talk to me get in touch via Disco
 
 If you spot an error on our website or you simply want to help us improve it, [Pull Requests are most welcome](https://github.com/softinio/www.sfbayareatechies.com)
 
-# Enjoy: <https://www.sfbayareatechies.com> #
+### Made with ❤️ in San Francisco: <https://www.sfbayareatechies.com> ###
