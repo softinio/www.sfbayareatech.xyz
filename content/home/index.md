@@ -1,5 +1,5 @@
 ---
-title: "SFBayAreaTechies.com"
+title: "SFBayAreaTechies"
 draft: false
 headless: true
 weight: 0
