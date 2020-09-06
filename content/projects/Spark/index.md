@@ -18,5 +18,5 @@ How it may be complementary to the original Spark Users, now Bay Area Spark Meet
 
 Recordings are posted on our YouTube channel: [functional.tv](http://functional.tv)
 
-[SF Scala Meetup page](https://www.meetup.com/SF-Spark-and-Friends/)
+[SF Spark and Friends Meetup page](https://www.meetup.com/SF-Spark-and-Friends/)
 
