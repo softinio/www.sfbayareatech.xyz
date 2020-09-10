@@ -1,7 +1,7 @@
 ---
 title: "SF Java" # Title of your project
 date: 2020-09-02T22:40:12-07:00
-weight: 2 # Order in which to show this project on the home page
+weight: 3 # Order in which to show this project on the home page
 resources:
     - src: java.png
       params:
