@@ -1,7 +1,7 @@
 ---
 title: "SF Elastic User Group" # Title of your project
 date: 2020-09-02T22:40:19-07:00
-weight: 3 # Order in which to show this project on the home page
+weight: 4 # Order in which to show this project on the home page
 external_link: "" # Optional external link instead of modal
 resources:
     - src: elastic.jpeg
