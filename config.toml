@@ -43,6 +43,10 @@ googleAnalytics                 = "UA-123629928-1"                     # https:/
         url   = "https://twitter.com/SFBayareaTech"
         icon  = "twitter" # icon name without the 'fa-'
         icon_pack = "fab"
+    [[params.social]]
+        url   = "https://www.youtube.com/channel/UCx317LNd-AlbTcE_0FkdJcg/featured"
+        icon  = "youtube" # icon name without the 'fa-'
+        icon_pack = "fab"
     # [[params.social]]
     #     url   = "https://facebook.com/"
     #     icon  = "facebook-f" # icon name without the 'fa-'
